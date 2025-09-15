@@ -1,6 +1,6 @@
 # Hey, I'm Paz
 
-## Entrepreneur • Professional Problem-Solver (and sometimes Problem-Maker) • Hobbyist developer 
+### Entrepreneur • Professional Problem-Solver (and sometimes Problem-Maker) • Hobbyist developer 
 
 ---
 
